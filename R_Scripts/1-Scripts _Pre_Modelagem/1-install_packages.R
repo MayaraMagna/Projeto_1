@@ -13,7 +13,7 @@ install.packages("remotes")
 install.packages("rgdal")
 install.packages("maptools")
 
-remotes::install_github("marlonecobos/kuenm")
+remotes::install_github("marlonecobos/kuenm") #as vezes tem que instalar o pacote kuenm
 
 
 ## Carregando pacotes necessários para instalação. 
